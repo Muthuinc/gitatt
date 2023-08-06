@@ -1,3 +1,3 @@
 #! /bin/bash
 
-echo "changes in inc"
+echo "changes in Inc"
