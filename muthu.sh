@@ -1,3 +1,3 @@
 #! /bin/bash
 
-echo "master branch"
+echo "master branch edited"
